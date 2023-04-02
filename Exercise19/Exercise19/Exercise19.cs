@@ -7,7 +7,7 @@
     {
         Console.WriteLine("Введите число, а не строку!");
     }
-    return  Math.Abs(userNumber);
+    return  Math.Abs(userNumber); 
 }
 
 bool IsPalindromeNumber(float userNumber)
